@@ -1,0 +1,10 @@
+.login-page {
+  background-image: url("../ap_img/login.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.9;
+  filter: alpha(opacity=90); /* For IE8 and earlier */  
+}
+

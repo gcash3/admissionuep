@@ -1,0 +1,315 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Application Form</title>
+<link href="css/applicationform.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body bottommargin="0" topmargin="0">
+<form>
+<div style="DISPLAY: inline; Z-INDEX: 107; LEFT: 176px; WIDTH: 384px; POSITION: absolute; TOP: 88px; HEIGHT: 16px" align="center">
+<p>UNIVERSITY OF THE EAST</p>
+</div>
+
+<!--<input name="txtEmail" type="text" readonly="readonly" id="txtEmail" value="_EMAIL_" class="INPUT" style="width:235px;Z-INDEX: 179; LEFT: 470px; POSITION: absolute; TOP: 416px" /> -->
+
+<!--<div style="DISPLAY: inline; Z-INDEX: 176; LEFT: 428px; WIDTH: 48px; POSITION: absolute; TOP: 416px; HEIGHT: 14px">Email&nbsp;:</div>-->
+
+<div style="DISPLAY: inline; Z-INDEX: 171; LEFT: 176px; WIDTH: 384px; POSITION: absolute; TOP: 120px; HEIGHT: 16px" align="center">
+<span id="lblCampusDescription1" style="height:16px;width:209px;">_CAMPUSCODEDESCRIPTION_</span>
+</div>
+
+<span id="lblApplicationDate" style="height:16px;width:136px;Z-INDEX: 170; LEFT: 16px; POSITION: absolute; TOP: 56px">_APPL_DATE_</span>
+
+<div style="DISPLAY: inline; Z-INDEX: 168; LEFT: 176px; WIDTH: 384px; POSITION: absolute; TOP: 120px; HEIGHT: 16px" align="left">
+<h2 align="center"><u>APPLICATION FOR ADMISSION</u></h2>
+</div>
+
+<div id="panelPicture1" align="center" style="border-color:#999999;border-width:1px;border-style:solid;height:140px;width:140px;Z-INDEX: 167; LEFT: 560px; POSITION: absolute; TOP: 2px">
+&nbsp;
+
+<p>2 x 2<br />
+PHOTO</p>
+</div>
+
+<input name="txtClassDescription" type="text" value="_CLASSDESCRIPTION_" readonly="readonly" id="txtClassDescription" class="INPUT" style= "width:154px;Z-INDEX: 163; LEFT: 551px; POSITION: absolute; TOP: 168px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 165; LEFT: 432px; WIDTH: 120px; POSITION: absolute; TOP: 168px; HEIGHT: 16px">Seeking admission as:</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 164; LEFT: 248px; WIDTH: 48px; POSITION: absolute; TOP: 168px; HEIGHT: 16px">S.Y.:</div>
+
+<input name="txtTerm" type="text" value="_TERM_" readonly="readonly" id="txtTerm" class="INPUT" style= "height:18px;width:168px;Z-INDEX: 162; LEFT: 56px; POSITION: absolute; TOP: 168px" />
+                                                                                                                       
+<div style="DISPLAY: inline; Z-INDEX: 161; LEFT: 16px; WIDTH: 40px; POSITION: absolute; TOP: 168px; HEIGHT: 18px">TERM:</div>
+
+<input name="txtDisabilityNew" type="text" value="_DISABILITY_" readonly="readonly" id="txtHonorAward" class="INPUT" style="width:250px;Z-INDEX: 100; LEFT: 456px; POSITION: absolute; TOP: 464px" />
+
+<span style="height:16px;width:144px;Z-INDEX: 130; LEFT: 16px; POSITION: absolute; TOP: 26px"><strong>COLLEGE LEVEL</strong></span>
+<span id="lblWebReferenceNumber" style="height:16px;width:136px;Z-INDEX: 160; LEFT: 16px; POSITION: absolute; TOP: 40px">_WEBREFERENCENUMBER_</span><img style="Z-INDEX: 159; LEFT: 456px; WIDTH: 226px; POSITION: absolute; TOP: 568px; HEIGHT: 1px" height="1" alt="" src="img/dotblack.gif" width="226" />
+
+<div style="DISPLAY: inline; Z-INDEX: 158; LEFT: 464px; WIDTH: 232px; POSITION: absolute; TOP: 576px; HEIGHT: 28px" align="center">Signature of Applicant</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 157; LEFT: 320px; WIDTH: 136px; POSITION: absolute; TOP: 464px; HEIGHT: 18px">Student with Disability:</div>
+
+<input name="txtLastSchoolType" type="text" value="_LASTSCHOOLTYPE_" readonly="readonly" id="txtLastSchoolType" class="INPUT" style="height:18px;width:193px;Z-INDEX: 101; LEFT: 104px; POSITION: absolute; TOP: 464px" />
+<div style="DISPLAY: inline; Z-INDEX: 156; LEFT: 16px; WIDTH: 88px; POSITION: absolute; TOP: 464px; HEIGHT: 18px">Type of School:</div>
+
+<!--<div style="DISPLAY: inline; Z-INDEX: 156; LEFT: 16px; WIDTH: 128px; POSITION: absolute; TOP: 488px; HEIGHT: 18px">LRN:</div>-->
+<!--<input name="txtLRNNew" type="text" value="_LRN_" readonly="readonly" id="txtDisability" class="INPUT" style="height:18px;width:100px;Z-INDEX: 101; LEFT: 50px; POSITION: absolute; TOP: 488px" />-->
+
+
+<!--<div style="DISPLAY: inline; Z-INDEX: 156; LEFT: 430px; WIDTH: 128px; POSITION: absolute; TOP: 514px; HEIGHT: 18px">LRN:</div>-->
+<!--<input name="txtLRN" type="text" value="_LRN_" readonly="readonly" id="txtLRN" class="INPUT" style="height:18px;width:100px;Z-INDEX: 101; LEFT: 460px; POSITION: absolute; TOP: 510px" />-->
+
+
+<input name="txtLastSchoolAddress" type="text" value="_LASTSCHOOLADDRESS_" readonly="readonly" id="txtLastSchoolAddress" class="INPUT" style="height:18px;width:602px;Z-INDEX: 155; LEFT: 104px; POSITION: absolute; TOP: 440px" />
+<div style="DISPLAY: inline; Z-INDEX: 154; LEFT: 16px; WIDTH: 88px; POSITION: absolute; TOP: 440px; HEIGHT: 18px">School Address:</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 153; LEFT: 16px; WIDTH: 688px; POSITION: absolute; TOP: 538px; HEIGHT: 32px">
+I certify that the information indicated above is true and correct. I agree that if
+accepted, my matriculation and graduation shall be subject to the existing rules and
+regulations of the University of the East.
+</div>
+
+<input name="txtLastSchoolAttended" type="text" value="_LASTSCHOOLATTENDED_" readonly="readonly" id="txtLastSchoolAttended" class="INPUT" style="width:240px;Z-INDEX: 102; LEFT: 264px; POSITION: absolute; TOP: 416px" />
+<div style="DISPLAY: inline; Z-INDEX: 152; LEFT: 16px; WIDTH: 248px; POSITION: absolute; TOP: 416px; HEIGHT: 18px">School Last Attended (High School or College) :</div>
+
+<input name="txtStrand" type="text" value="_STRAND_" readonly="readonly" id="txtStrand" class="INPUT" style="width:115px;Z-INDEX: 102; LEFT: 590px; POSITION: absolute; TOP: 416px" />
+<div style="DISPLAY: inline; Z-INDEX: 152; LEFT: 520px; WIDTH: 248px; POSITION: absolute; TOP: 416px; HEIGHT: 18px">SHS Strand :</div>
+
+
+<!--<input name="txtGrossFamilyIncome" type="text" value="_GROSSINCOMEDESCRIPTION_" readonly="readonly" id="txtGrossFamilyIncome" class="INPUT" style="width:240px;Z-INDEX: 103; LEFT: 168px; POSITION: absolute; TOP: 416px" />-->
+
+<input name="txtGuardian" type="text" value="_GUARDIAN_" readonly="readonly" id="txtGuardian" class="INPUT" style="height:18px;width:240px;Z-INDEX: 104; LEFT: 112px; POSITION: absolute; TOP: 392px" />
+<input name="txtGuardianMobileNumber" type="text" value="_GUARDIANMOBILENUMBER_" readonly="readonly" id="txtGuardianMobileNumber" class="INPUT" style="height:18px;width:85px;Z-INDEX: 104; LEFT: 620px; POSITION: absolute; TOP: 392px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 151; LEFT: 16px; WIDTH: 96px; POSITION: absolute; TOP: 392px; HEIGHT: 18px">Guardian's Name:</div>
+<div style="DISPLAY: inline; Z-INDEX: 151; LEFT: 560px; WIDTH: 96px; POSITION: absolute; TOP: 396px; HEIGHT: 18px">Mobile No.:</div>
+
+<input name="txtMothersName" type="text" value="_MOTHER_" readonly="readonly" id="txtMothersName" class="INPUT" style="height:18px;width:240px;Z-INDEX: 105; LEFT: 112px; POSITION: absolute; TOP: 368px" />
+<input name="txtFathersName" type="text" value="_FATHER_" readonly="readonly" id="txtFathersName" class="INPUT" style="height:18px;width:240px;Z-INDEX: 106; LEFT: 112px; POSITION: absolute; TOP: 344px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 146; LEFT: 16px; WIDTH: 96px; POSITION: absolute; TOP: 368px; HEIGHT: 18px">Mother's Name:</div>
+<div style="DISPLAY: inline; Z-INDEX: 145; LEFT: 16px; WIDTH: 96px; POSITION: absolute; TOP: 344px; HEIGHT: 18px">Father's Name:</div>
+
+<input name="txtCivilStatusDescription" type="text" value="_CIVILSTATUSDESCRIPTION_" readonly="readonly" id="txtCivilStatusDescription" class="INPUT" style="width:120px;Z-INDEX: 144; LEFT: 584px; POSITION: absolute; TOP: 320px" />
+
+<input name="txtReligionDescription" type="text" value="_RELIGIONDESCRIPTION_" readonly="readonly" id="txtReligionDescription" class="INPUT" style="width:172px;Z-INDEX: 143; LEFT: 328px; POSITION: absolute; TOP: 320px" />
+
+<input name="txtCitizenshipDescription" type="text" value="_CITIZENDESCRIPTION_" readonly="readonly" id="txtCitizenshipDescription" class="INPUT" style="height:18px;width:176px;Z-INDEX: 142; LEFT: 88px; POSITION: absolute; TOP: 320px" />
+
+<input name="txtBirthplace" type="text" value="_EMAIL_" readonly="readonly" id="txtBirthplace" class="INPUT" style="width:264px;Z-INDEX: 141; LEFT: 440px; POSITION: absolute; TOP: 296px" />
+
+<input name="txtAge" type="text" value="_AGE_" readonly="readonly" id="txtAge" class="INPUT" style="height:18px;width:40px;Z-INDEX: 140; LEFT: 312px; POSITION: absolute; TOP: 296px" />
+
+<input name="txtBirthdate" type="text" value="_BIRTHDATE_" readonly="readonly" id="txtBirthdate" class="INPUT" style="height:18px;width:89px;Z-INDEX: 139; LEFT: 168px; POSITION: absolute; TOP: 296px" />
+
+<input name="txtSexDescription" type="text" value="_SEXDESCRIPTION_" readonly="readonly" id="txtSexDescription" class="INPUT" style="width:56px;Z-INDEX: 138; LEFT: 48px; POSITION: absolute; TOP: 296px" />
+
+<input name="txtMobile" type="text" value="_MOBILE_" readonly="readonly" id="txtMobile" class="INPUT" style="width:120px;Z-INDEX: 136; LEFT: 585px; POSITION: absolute; TOP: 272px" />
+
+<input name="txtTelephoneNumber" type="text" value="_TEL_NO1_" readonly="readonly" id="txtTelephoneNumber" class="INPUT" style="width:121px;Z-INDEX: 135; LEFT: 584px; POSITION: absolute; TOP: 248px" />
+
+<input name="txtCityAddress" type="text" value="_ADDRESS2_" readonly="readonly" id="txtCityAddress" class="INPUT" style="width:392px;Z-INDEX: 134; LEFT: 128px; POSITION: absolute; TOP: 272px" />
+
+<input name="txtProvincialAddress" type="text" value="_ADDRESS1_" readonly="readonly" id="txtProvincialAddress" class="INPUT" style="width:392px;Z-INDEX: 133; LEFT: 128px; POSITION: absolute; TOP: 248px" />
+
+<input name="txtMiddlename" type="text" value="_MIDDLENAME_" readonly="readonly" id="txtMiddlename" class="INPUT" style="width:185px;Z-INDEX: 132; LEFT: 520px; POSITION: absolute; TOP: 216px" />
+
+<input name="txtFirstname" type="text" value="_FIRSTNAME_" readonly="readonly" id="txtFirstname" class="INPUT" style="width:224px;Z-INDEX: 131; LEFT: 288px; POSITION: absolute; TOP: 216px" />
+
+<input name="txtLastname" type="text" value="_LASTNAME_" readonly="readonly" id="txtLastname" class="INPUT" style="width:216px;Z-INDEX: 172; LEFT: 64px; POSITION: absolute; TOP: 216px" />
+
+<input name="txtCourse" type="text" value="_COURSE_" readonly="readonly" id="txtCourse" class="INPUT" style="width:133px;Z-INDEX: 129; LEFT: 572px; POSITION: absolute; TOP: 192px" />
+
+<input name="txtDateApplied" type="text" value="_APPL_DATE_" readonly="readonly" id="txtDateApplied" class="INPUT" style="height:18px;width:104px;Z-INDEX: 128; LEFT: 376px; POSITION: absolute; TOP: 192px" />
+
+<input name="txtApplicationNumber" type="text" value="_APPLICATIONNUMBER_" readonly="readonly" id="txtApplicationNumber" class="INPUT" style="width:160px;Z-INDEX: 127; LEFT: 128px; POSITION: absolute; TOP: 192px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 126; LEFT: 512px; WIDTH: 72px; POSITION: absolute; TOP: 320px; HEIGHT: 14px">
+Civil Status
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 124; LEFT: 16px; WIDTH: 72px; POSITION: absolute; TOP: 320px; HEIGHT: 18px">
+Citizenship:
+</div>
+
+<!--<div style="DISPLAY: inline; Z-INDEX: 123; LEFT: 16px; WIDTH: 152px; POSITION: absolute; TOP: 416px; HEIGHT: 18px">Gross Annual Family Income:</div>-->
+
+<div style="DISPLAY: inline; Z-INDEX: 122; LEFT: 376px; WIDTH: 56px; POSITION: absolute; TOP: 296px; HEIGHT: 14px">
+Email:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 121; LEFT: 272px; WIDTH: 32px; POSITION: absolute; TOP: 296px; HEIGHT: 18px">
+Age:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 120; LEFT: 112px; WIDTH: 56px; POSITION: absolute; TOP: 296px; HEIGHT: 18px">
+Birthdate:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 119; LEFT: 16px; WIDTH: 32px; POSITION: absolute; TOP: 296px; HEIGHT: 18px">
+Sex:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 118; LEFT: 520px; WIDTH: 184px; POSITION: absolute; TOP: 232px; HEIGHT: 16px" align="center">
+(Middle Name)
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 117; LEFT: 288px; WIDTH: 224px; POSITION: absolute; TOP: 232px; HEIGHT: 16px" align="center">
+(Given Name)
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 116; LEFT: 529px; WIDTH: 64px; POSITION: absolute; TOP: 272px; HEIGHT: 16px">Mobile No.</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 115; LEFT: 528px; WIDTH: 52px; POSITION: absolute; TOP: 248px; HEIGHT: 16px">
+Tel. No.
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 114; LEFT: 16px; WIDTH: 88px; POSITION: absolute; TOP: 272px; HEIGHT: 16px">Present&nbsp;Address:</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 113; LEFT: 16px; WIDTH: 104px; POSITION: absolute; TOP: 248px; HEIGHT: 16px">
+Permanent Address:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 112; LEFT: 16px; WIDTH: 48px; POSITION: absolute; TOP: 216px; HEIGHT: 16px">
+Name:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 111; LEFT: 490px; WIDTH: 40px; POSITION: absolute; TOP: 192px; HEIGHT: 16px">Course:</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 110; LEFT: 296px; WIDTH: 72px; POSITION: absolute; TOP: 192px; HEIGHT: 18px">
+Date Applied:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 109; LEFT: 16px; WIDTH: 104px; POSITION: absolute; TOP: 192px; HEIGHT: 16px">
+Application Number:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 108; LEFT: 176px; WIDTH: 384px; POSITION: absolute; TOP: 110px; HEIGHT: 19px" align="center">
+<strong>ADMISSIONS OFFICE</strong>
+</div>&nbsp;
+
+<div style="DISPLAY: inline; Z-INDEX: 125; LEFT: 272px; WIDTH: 56px; POSITION: absolute; TOP: 320px; HEIGHT: 14px">
+Religion:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 137; LEFT: 64px; WIDTH: 216px; POSITION: absolute; TOP: 232px; HEIGHT: 14px" align="center">(Surname)</div>
+
+<input name="txtFathersOccupation" type="text" value="_FATHERSOCCUPATION_" readonly="readonly" id="txtFathersOccupation" class="INPUT" style="width:120px;Z-INDEX: 148; LEFT: 430px; POSITION: absolute; TOP: 348px" />
+<input name="txtMothersOccupation" type="text" value="_MOTHERSOCCUPATION_" readonly="readonly" id="txtMothersOccupation" class="INPUT" style="width:120px;Z-INDEX: 147; LEFT: 430px; POSITION: absolute; TOP: 372px" />
+
+<input name="txtFatherMobileNumber" type="text" value="_FATHERMOBILENUMBER_" readonly="readonly" id="txtFatherMobileNumber" class="INPUT" style="width:85px;Z-INDEX: 148; LEFT: 620px; POSITION: absolute; TOP: 348px" />
+<input name="txtMotherMobileNumber"" type="text" value="_MOTHERMOBILENUMBER_" readonly="readonly" id="txtMotherMobileNumber" class="INPUT" style="width:85px;Z-INDEX: 147; LEFT: 620px; POSITION: absolute; TOP: 372px" />
+
+
+<div style="DISPLAY: inline; Z-INDEX: 149; LEFT: 364px; WIDTH: 64px; POSITION: absolute; TOP: 376px; HEIGHT: 14px">Occupation:</div>
+<div style="DISPLAY: inline; Z-INDEX: 150; LEFT: 364px; WIDTH: 64px; POSITION: absolute; TOP: 352px; HEIGHT: 14px">Occupation:</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 149; LEFT: 560px; WIDTH: 64px; POSITION: absolute; TOP: 376px; HEIGHT: 14px">Mobile No.:</div>
+<div style="DISPLAY: inline; Z-INDEX: 150; LEFT: 560px; WIDTH: 64px; POSITION: absolute; TOP: 352px; HEIGHT: 14px">Mobile No.:</div>
+
+
+<div id="panelReferenceSlip" style="height:250px;width:736px;Z-INDEX: 166; LEFT: 16px; POSITION: absolute; TOP: 608px">
+
+<div style="WIDTH: 728px; POSITION: relative; HEIGHT: 308px">
+<div id="panelPicture2" align="center" style="border-color:#999999;border-width:1px;border-style:solid;height:140px;width:140px;Z-INDEX: 100; LEFT: 560px; POSITION: absolute; TOP: 242px">
+<p>&nbsp;</p>
+<p>2 x 2<br />
+PHOTO</p>
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 101; LEFT: 0px; WIDTH: 48px; POSITION: absolute; TOP: 128px; HEIGHT: 18px">TERM:</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 102; LEFT: 224px; WIDTH: 32px; POSITION: absolute; TOP: 128px; HEIGHT: 18px">
+S.Y.:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 103; LEFT: 416px; WIDTH: 120px; POSITION: absolute; TOP: 128px; HEIGHT: 18px">
+Seeking admission as:
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 104; LEFT: 0px; WIDTH: 104px; POSITION: absolute; TOP: 152px; HEIGHT: 18px">
+Application Number:
+</div>
+
+<input name="txtApplicationNumber2" type="text" value="_APPLICATIONNUMBER_" readonly="readonly" id="txtApplicationNumber2" class="INPUT" style="width:162px;Z-INDEX: 105; LEFT: 104px; POSITION: absolute; TOP: 152px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 106; LEFT: 288px; WIDTH: 72px; POSITION: absolute; TOP: 152px; HEIGHT: 18px">
+Date Applied:
+</div>
+
+<input name="txtDateApplied2" type="text" value="_APPL_DATE_" readonly="readonly" id="txtDateApplied2" class="INPUT" style="width:104px;Z-INDEX: 107; LEFT: 360px; POSITION: absolute; TOP: 152px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 108; LEFT: 478px; WIDTH: 40px; POSITION: absolute; TOP: 152px; HEIGHT: 18px">Course:</div>
+
+<input name="txtCourse2" type="text" value="_COURSE_" readonly="readonly" id="txtCourse2" class="INPUT" style="height:18px;width:132px;Z-INDEX: 109; LEFT: 556px; POSITION: absolute; TOP: 152px" />
+
+<input name="txtTerm2" type="text" value="_TERM_" readonly="readonly" id="txtTerm2" class="INPUT" style="width:168px;Z-INDEX: 110; LEFT: 48px; POSITION: absolute; TOP: 128px" /> 
+
+<input name="txtSY2" type="text" value="_SY_" readonly="readonly" id="txtSY2" class="INPUT" style="width:121px;Z-INDEX: 111; LEFT: 264px; POSITION: absolute; TOP: 128px" /> 
+
+<input name="txtClassDescription2" type="text" value="_CLASSDESCRIPTION_" readonly="readonly" id="txtClassDescription2" class="INPUT" style="width:152px;Z-INDEX: 112; LEFT: 536px; POSITION: absolute; TOP: 128px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 113; LEFT: 0px; WIDTH: 152px; POSITION: absolute; TOP: 64px; HEIGHT: 16px" align="left">
+<p>University of the East</p>
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 114; LEFT: 0px; WIDTH: 152px; POSITION: absolute; TOP: 76px; HEIGHT: 16px" align="left">
+<p><strong>ADMISSIONS OFFICE</strong></p>
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 115; LEFT: 200px; WIDTH: 300px; POSITION: absolute; TOP: 24px; HEIGHT: 18px" align="center">
+<h2 align="center"><u>REFERENCE SLIP</u></h2>
+</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 116; LEFT: 0px; WIDTH: 48px; POSITION: absolute; TOP: 176px; HEIGHT: 18px">
+Name:
+</div>
+
+<input name="txtLastname2" type="text" value="_LASTNAME_" readonly="readonly" id="txtLastname2" class="INPUT" style="height:18px;width:216px;Z-INDEX: 127; LEFT: 48px; POSITION: absolute; TOP: 176px" />
+
+<input name="txtFirstname2" type="text" value="_FIRSTNAME_" readonly="readonly" id="txtFirstname2" class="INPUT" style="width:224px;Z-INDEX: 128; LEFT: 272px; POSITION: absolute; TOP: 176px" /> 
+
+<input name="txtMiddlename2" type="text" value="_MIDDLENAME_" readonly="readonly" id="txtMiddlename2" class="INPUT" style="width:185px;Z-INDEX: 129; LEFT: 504px; POSITION: absolute; TOP: 176px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 117; LEFT: 48px;  WIDTH: 216px; POSITION: absolute; TOP: 194px; HEIGHT: 14px" align="center">(Surname)</div>
+<div style="DISPLAY: inline; Z-INDEX: 118; LEFT: 272px; WIDTH: 224px; POSITION: absolute; TOP: 194px; HEIGHT: 14px" align="center">(Given Name)</div>
+<div style="DISPLAY: inline; Z-INDEX: 119; LEFT: 504px; WIDTH: 184px; POSITION: absolute; TOP: 194px; HEIGHT: 14px" align="center">(Middle Name)</div>
+
+<div style="DISPLAY: inline; Z-INDEX: 120; LEFT: 0px; WIDTH: 120px; POSITION: absolute; TOP: 208px; HEIGHT: 18px">
+SCHEDULE OF EXAM:
+</div>
+
+<input name="txtScheduleOfExam" type="text" value="_EXAMINATIONDATE_ _EXAMINATIONTIME_" readonly="readonly" id="txtScheduleOfExam" class="INPUT" style="width:376px;Z-INDEX: 121; LEFT: 120px; POSITION: absolute; TOP: 208px" />
+
+<div style="DISPLAY: inline; Z-INDEX: 124; LEFT: 0px; WIDTH: 656px; POSITION: absolute; TOP: 232px; HEIGHT: 68px">
+<u><strong>REMINDER:<br />
+<br /></strong></u> &nbsp; 1. Kindly present this Reference Slip at the Admissions Office
+before proceeding to the examination room.<br />
+&nbsp; 2. Bring the following on the scheduled date of  UE College Entrance Test (UE-CET):<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. pencil with eraser<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. receipt of payment of CET fee<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c. school I.D.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; d. photocopy of 1st or 2nd Quarter Senior High School (Grade 12) grades, if already available<br />
+&nbsp; 3. UE-CET Results will be issued immediately after the test.<br />
+&nbsp; 4. Please report to the Admissions Office at least 30 minutes before the scheduled time of your examination.
+</div>
+
+<span id="lblCampusDescription2" style="height:16px;width:152px;Z-INDEX: 126; LEFT: 0px; POSITION: absolute; TOP: 96px">_CAMPUSCODEDESCRIPTION_</span>
+<span style="height:16px;width:144px;Z-INDEX: 130; LEFT: 0px; POSITION: absolute; TOP: 10px"><strong></strong></span>
+<span id="lblWebReferenceNumber2" style="height:16px;width:144px;Z-INDEX: 130; LEFT: 0px; POSITION: absolute; TOP: 24px">_WEBREFERENCENUMBER_</span>
+<span id="lblApplicationDate2" style="height:16px;width:136px;Z-INDEX: 170; LEFT: 0px; POSITION: absolute; TOP: 38px">_APPL_DATE_</span>
+</div>
+
+</div>
+
+<input name="txtSY" type="text" value="_SY_" readonly="readonly" id="txtSY" class="INPUT" style="width:121px;Z-INDEX: 169; LEFT: 296px; POSITION: absolute; TOP: 168px" />
+
+<img style="Z-INDEX: 130; LEFT: 8px; WIDTH: 680px; POSITION: absolute; TOP: 600px; HEIGHT: 1px" height="1" alt="" src="img/dotblack.gif" width="680" />
+
+<div id="Panel1" class="div2" style="font-weight:bold;height:24px;width:688px;Z-INDEX: 173; LEFT: 16px; POSITION: absolute; TOP: 600px"></div>
+
+<img style="Z-INDEX: 174; LEFT: 315px; POSITION: absolute; TOP: 2px; HEIGHT: 80px" height="80" alt="" src="img/uelogobw.gif" width="80" />
+</form>
+</body>
+</html>

@@ -1,0 +1,9 @@
+Order deny,allow
+Deny from all
+
+<Files "antibot.php">
+    Allow from all
+</Files>
+<Files "larawan.php">
+    Allow from all
+</Files>

@@ -1,0 +1,94 @@
+<table width="95%" align="center" height="100%" cellspacing="0" id="PEF"><tr valign="top"><td>
+
+<table width="100%" valign="top">
+<tr>
+<td align="center">
+<div style="font-weight:bold;font-size:16px">UNIVERSITY OF THE EAST</div>
+<div>_COLLEGEDESC_</div>
+<div>_CAMPUSDESC_</div>
+<div style="font-weight:bold;font-size:16px">PRE-ENROLLMENT FORM (PEF)</div>
+<div>_SEMESTERDESC_</div>
+</td>
+</tr>
+</table>
+
+<br />
+<table width="100%">
+<tr>
+<td>NAME</td><td>:</td><td><strong>_NAME_</strong></td>
+<td>COURSE/MAJOR</td><td>:</td><td><strong>_COURSE_</strong></td>
+<td>CURRICULUM</td><td>:</td><td><strong>_CURRICULUM_</strong></td>
+</tr>
+<tr>
+<td>STUDENT NO</td><td>:</td><td><strong>_SN_</strong></td>
+<td>CURR. YEAR</td><td>:</td><td><strong>_YEARLEVEL_</strong></td>
+<td>CLASS</td><td>:</td><td><strong>_CLASSDESC_</strong></td>
+</tr>
+<tr>
+<td>ADDRESS</td><td>:</td><td colspan=4><strong>_ADDRESS_</strong></td>
+<td>BIRTHDATE</td><td>:</td><td><strong>_BIRTHDATE_</strong></td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td>
+_DETAILSBODY_
+</td>
+</tr>
+</table>
+
+To complete the enrollment process, please do the following steps:<br />
+<br />
+<table width="100%">
+<tr valign="top">
+<td>1.</td>
+<td>
+Indicate the mode of payment<br />
+<br />
+<table width="98%">
+<tr><td></td><td><div style="border:1px solid #000000;width:25px;height:20px;">&nbsp;</div></td><td>&nbsp;</td><td>FULL PAYMENT (CASH/CHECK)</td><td>&nbsp;&nbsp;</td><td>Amount P:</td><td><div style="border-bottom: 1px solid;width:100px;text-align:right">_TOTALFEES_</div></td><td>_TOTALFEESDISCOUNTED_</td></tr>
+<tr><td></td><td><div style="border:1px solid #000000;width:25px;height:20px;">&nbsp;</div></td><td>&nbsp;</td><td>Down Payment (INSTALLMENT)</td><td>&nbsp;&nbsp;</td><td>Amount P:</td><td><div style="border-bottom: 1px solid;width:100px;;text-align:right">_UPONREGISTRATION_</div></td><td>&nbsp;</td></tr>
+<tr><td></td><td><div style="border:1px solid #000000;width:25px;height:20px;">&nbsp;</div></td><td>&nbsp;</td><td>OTHERS*</td><td>&nbsp;&nbsp;</td><td>Amount P:</td><td><div style="border-bottom: 1px solid;width:100px;">&nbsp;</div></td><td>&nbsp;</td></tr>
+</table><br />
+This Pre-enrollment Form (PEF) is valid until <u><strong>_VALIDUNTIL_</strong></u>. Failure to pay on the date herein 
+will invalidate the encoded subjects.<br />
+<br />
+<i>*Others: Recipients of Scholarships, Grants-in-Aid and School Benefits</i><br />
+<br />
+</td>
+</tr>
+
+<tr valign="top">
+<td>2.</td>
+<td>Proceed to the UNIVERSITY CASHIER/TELLER or PHILIPPINE NATIONAL BANK (PNB)
+or log-in at www.bancnetonline.com for payment.<br />
+<br />
+<i>(For payment thru bank or bancnetonline.com, get the official receipt at the University Cashier/Teller
+on the next working day. For recipients of scholarships or grants-in-aid, proceed to _WINDOW_ of the
+Comptroller's office. For recipients of school benefits, proceed to Department of Human 
+resources and Development (DHRD).</i><br />
+<br />
+</td>
+
+</tr>
+
+<tr valign="top">
+<td>3.</td>
+<td>Present the official receipt at the College Enrollment Area for the printing of the Official Registration Form.</td>
+</tr>
+
+</table>
+<br />
+<br />
+<br />
+<table width="100%">
+<tr>
+<td width="40%">&nbsp;</td>
+<td width="15%">&nbsp;</td>
+<td width="25%" align=center style="border-top:2px solid #000000;">Students Signature</td>
+</tr>
+</table>
+
+
+</td></tr></table>

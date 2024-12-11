@@ -1,0 +1,23 @@
+RewriteEngine on
+
+# do not rewrite existing URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^selfie/(.*)$ "ap_php/larawan.php?p=$1" [QSA,L]
+
+# do not rewrite existing URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^c3po/(.*)$ "ap_php/antibot.php?p=$1" [QSA,L]
+
+# do not rewrite existing URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(.*)$ "main.php?page=$1" [QSA,L]
+
+
+
+
